@@ -1,0 +1,8 @@
+# C/Cpp output
+.o
+.elf
+.obj
+.out
+
+# CppUTest
+cpputest/
